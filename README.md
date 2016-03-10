@@ -1,6 +1,3 @@
-Warcraft III Barracks Simulator
-===============
-
 ## Premise
 
 Warcraft III is a famous strategy video game by Blizzard. In this game, players can build barracks and then use them to train footmen which they can later use to fight other players' units.
@@ -58,3 +55,4 @@ StackOverflow: [What is attr_accessor in Ruby?](http://stackoverflow.com/questio
 * How to write your own `initialize` method
 * How to use inheritance to extend a class
 * Extending / inheriting methods via `super`
+
